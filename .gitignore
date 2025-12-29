@@ -1,5 +1,5 @@
 
-# --- Appended from ./.gitignores on Mon Dec 29 17:37:25 2025 ---
+# --- Appended from ./.gitignores on Mon Dec 29 17:47:50 2025 ---
 
 #############################################
 # A.gitignore
@@ -279,7 +279,7 @@ build.log
 *.log.*
 *.sig
 
-pkg/
+# pkg/
 # src/
 
 #############################################
