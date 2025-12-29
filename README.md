@@ -1,2 +1,12 @@
-# bck-ydjs01-auto_vcs
-Simple app to automate version control system (GitHub and GitLab)
+# Project README
+
+This is a placeholder README.md file.
+Please update this file with your project information.
+
+## Description
+
+## Installation
+
+## Usage
+
+## Contributing
